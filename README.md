@@ -1,2 +1,2 @@
 # CircleVideo
-CircleVideo Renderering View
+CircleVideo Custome Renderering View with ExoPlayer
